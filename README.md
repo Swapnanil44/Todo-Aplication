@@ -1,4 +1,4 @@
-## Todo app
+## Todo app(using mern stack)
 This project contains a simple TODO application that
 contains the following features-
 
